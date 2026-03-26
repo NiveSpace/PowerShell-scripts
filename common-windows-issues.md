@@ -10,7 +10,6 @@ Too many background processes or temp files
 - Disable startup programs
 - Restart system
 
----
 
 ## 2. No Internet Connection
 
@@ -24,7 +23,6 @@ Network issue or wrong IP
   ipconfig /renew
 - Check network cables
 
----
 
 ## 3. Printer Not Working
 
@@ -35,7 +33,6 @@ Spooler service stopped
 - Restart Print Spooler service
 - Reinstall printer drivers
 
----
 
 ## 4. Application Not Opening
 
@@ -46,7 +43,6 @@ Corrupted files
 - Reinstall application
 - Run as administrator
 
----
 
 ## 5. System Running Slow
 
